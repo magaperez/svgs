@@ -3,12 +3,12 @@
 
 @font-face {
 	font-family:"Bauhaus";
-	src: url("../font/Bauhaus/");
+	src:url("../font/Bauhaus/BauhausRegular.ttf");
 }
 
 @font-face {
 	font-family:'Bauhaus 93';
-	src: url("../font/Bauhaus93/");
+	src: url("../font/Bauhaus93/Bauhaus 93 Regular.ttf");
 }
 
 body {
